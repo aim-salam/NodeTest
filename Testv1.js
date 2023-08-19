@@ -1,5 +1,5 @@
 let al = require('./TestModule')
 let a = "XYZ"
 let b = "JKL"
-let c = "PQR"
+let c = "PQRS"
 console.log(al.ALPHABET)
