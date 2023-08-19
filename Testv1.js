@@ -3,4 +3,4 @@ let a = "XYZ"
 let b = "JKL"
 let c = "PQRS"
 // console.log(al.ALPHABET)
-console.log(a)
+console.log(c)
