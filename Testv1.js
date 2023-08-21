@@ -5,3 +5,4 @@ let c = "PQRS"
 // console.log(al.ALPHABET)
 console.log(c)
 console.log(a)
+console.log(b)
